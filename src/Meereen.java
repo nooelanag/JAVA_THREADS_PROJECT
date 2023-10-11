@@ -1,4 +1,4 @@
-// Made by NOEL ANDOLF AGUADO and DANIEL LOZANO UCEDA
+// Made by NOEL ANDOLZ AGUADO and DANIEL LOZANO UCEDA
 import java.util.Random;
 class Alchemist extends Thread {
 	private int id;
